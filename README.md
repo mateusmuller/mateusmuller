@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**mateusmuller/mateusmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>Hello, I am Mateus Müller :)</h2>
 
-Here are some ideas to get you started:
+<h3>  About Me!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🙋 DevOps, calisthenics, content creation and coffee! 
+  💼 Working as a DevOps Engineer
+
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins
+  ⭐ Debian (testing) ● VsCode ● Tilix ● Vim ● ZSH
+
+<h3>🛠️ Projects:</h3>
+
+  🐧 4Fasters - [@mateuslinux_](https://4fasters.com.br/)
+
+
+[![Mateus Müller GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmuller&show_icons=true)](https://github.com/mateusmuller)
+
