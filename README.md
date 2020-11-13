@@ -4,12 +4,14 @@
 
 <h3>  About Me!</h3>
 
-  🙋 DevOps, calisthenics, content creation and coffee! 
+  🙋 DevOps, calisthenics, content creation and coffee!
+  
   💼 Working as a DevOps Engineer
 
 <h3>⚙️ Stack</h3>
 
   💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins
+  
   ⭐ Debian (testing) ● VsCode ● Tilix ● Vim ● ZSH
 
 <h3>🛠️ Projects:</h3>
