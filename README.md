@@ -4,7 +4,7 @@
 
 <h3>  About Me!</h3>
 
-  🙋 DevOps, calisthenics, content creation and coffee!
+  🙋 DevOps, bodybuilding, content creation and coffee!
   
   💼 Working as a DevOps Engineer
 
@@ -16,7 +16,7 @@
 
 <h3>🛠️ Projects:</h3>
 
-  🐧 4Fasters - [@mateuslinux_](https://4fasters.com.br/)
+  🐧 4Fasters - [@mateuslinux_](https://mateusmuller.me/)
 
 
 [![Mateus Müller GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmuller&show_icons=true)](https://github.com/mateusmuller)
