@@ -16,7 +16,7 @@
 
 <h3>🛠️ Projects:</h3>
 
-  🐧 4Fasters - [@mateuslinux_](https://mateusmuller.me/)
+  🐧 [@mateuslinux_](https://mateusmuller.me/)
 
 
 [![Mateus Müller GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmuller&show_icons=true)](https://github.com/mateusmuller)
