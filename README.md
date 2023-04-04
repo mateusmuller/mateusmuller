@@ -1,23 +1,15 @@
+## Hey there 👋
 
-<div align="center">
-<h2>Hello, I am Mateus Müller :)</h2>
+This is Mateus! I'm currently working as a DevOps Engineer at Trustly 100% remote. My tech stack includes Linux, Networking Fundamentals, Programming (Bash & Python), Docker, Kubernetes, AWS, Terraform, Ansible, EFK, Prometheus, Grafana and others.
 
-<h3>  About Me!</h3>
+What excites me about DevOps is the possibility to work with complex infrastructures, but automate pretty much everything on top of it 🧡.
 
-  🙋 DevOps, bodybuilding, content creation and coffee!
-  
-  💼 Working as a DevOps Engineer
+During my spare time I like to break some k8s clusters on my homelab, hit the gym, watch netflix, gaming and spend time with my beloved ones.
 
-<h3>⚙️ Stack</h3>
+I'm also a content creator, feel free to check it out:
 
-  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins
-  
-  ⭐ Debian (testing) ● VsCode ● Tilix ● Vim ● ZSH
+**[Blog](https://mateusmuller.me/) - [YouTube](https://www.youtube.com/c/MateusMuller) - [Instagram](https://www.instagram.com/mateuslinux_/) - [LinkedIn](https://www.linkedin.com/in/mateus-gabriel-m%C3%BCller-790709bb/)**
 
-<h3>🛠️ Projects:</h3>
-
-  🐧 [@mateuslinux_](https://mateusmuller.me/)
-
+---
 
 [![Mateus Müller GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmuller&show_icons=true)](https://github.com/mateusmuller)
-
