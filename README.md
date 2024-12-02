@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-This is Mateus! I'm currently working as a DevOps Engineer at Trustly 100% remote. My tech stack includes Linux, Networking Fundamentals, Programming (Bash & Python), Docker, Kubernetes, AWS, Terraform, Ansible, EFK, Prometheus, Grafana and others.
+This is Mateus! I'm currently working as a DevOps Engineer at Zeta Global. My tech stack includes Linux, Networking Fundamentals, Programming (Bash & Python), Docker, Kubernetes, AWS, Terraform, Ansible, EFK, Prometheus, Grafana and others.
 
 What excites me about DevOps is the possibility to work with complex infrastructures, but automate pretty much everything on top of it 🧡.
 
